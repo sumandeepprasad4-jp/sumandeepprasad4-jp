@@ -1,4 +1,4 @@
-# Hi there 👋
+# I'm Sumandeep Prasad 
 # 💫 About Me:
 🔭 I'm currently working on Learning programming basics and small college projects<br>👯 I'm looking to collaborate on Beginner-friendly Python and Data Science projects<br>🌱 I'm currently learning: Python and  Data Science fundamentals<br>💬 Ask me about anything about Python , SQL basics and Data Science fundamentals<br>⚡ Fun fact is I enjoy learning new tech skills step by step
 
